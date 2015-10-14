@@ -73,6 +73,7 @@
          <string v="ADFbc"/>
          <string v="ADFm"/>
          <string v="Java"/>
+         <string v="Maven"/>
          <string v="XML"/>
       </list>
    </hash>
@@ -190,6 +191,9 @@
          <string v="WorkBetterFaces_Model_adflib"/>
          <string v="WorkBetterFaces_Model"/>
       </list>
+   </hash>
+   <hash n="oracle.jdeveloper.maven.compiler.MavenConfiguration">
+      <url n="pomfileURL" path="pom.xml"/>
    </hash>
    <hash n="oracle.jdeveloper.model.J2eeSettings">
       <value n="j2eeWebAppName" v="WorkBetterFaces-Model-webapp"/>

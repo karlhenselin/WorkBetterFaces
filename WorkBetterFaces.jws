@@ -91,4 +91,9 @@
          <string v="WorkBetterFaces_Project1_WorkBetterFaces"/>
       </list>
    </hash>
+   <hash n="oracle.jdeveloper.maven.compiler.MavenConfiguration">
+      <hash n="oracle.jdeveloper.maven.compiler.MavenConfiguration">
+         <url n="pomfileURL" path="pom.xml"/>
+      </hash>
+   </hash>
 </jws:workspace>

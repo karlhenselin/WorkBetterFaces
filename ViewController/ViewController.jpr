@@ -107,6 +107,7 @@
          <string v="JSF"/>
          <string v="JSP"/>
          <string v="Java"/>
+         <string v="Maven"/>
          <string v="TRINIDAD"/>
          <string v="XML"/>
       </list>
@@ -220,6 +221,9 @@
       <list n="profileList">
          <string v="WorkBetterFaces_ViewController_webapp"/>
       </list>
+   </hash>
+   <hash n="oracle.jdeveloper.maven.compiler.MavenConfiguration">
+      <url n="pomfileURL" path="pom.xml"/>
    </hash>
    <hash n="oracle.jdeveloper.model.J2eeSettings">
       <value n="j2eeWebAppName" v="WorkBetterFaces-ViewController-webapp"/>
